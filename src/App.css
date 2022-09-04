@@ -1,0 +1,35 @@
+.countdisplay {
+
+font-size: x-large;
+font-family: 'Courier New', Courier, monospace;
+margin-left: 93px;
+
+}
+
+.main {
+  margin-left: 550px;
+  margin-top: 200px;
+
+}
+
+
+.increase {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px;
+  border: 0px;
+}
+.decrease {
+  background-color: #f44336;
+  color: white;
+  padding: 10px;
+  border: 0px;
+
+}
+.reset {
+  background-color: rgb(246, 245, 242);
+  color: black;
+  padding: 10px;
+  border: 0px;
+
+}
